@@ -183,3 +183,20 @@ Built with Python, Streamlit, AI, Machine Learning, and Supabase.
 
 
 *Making classroom attendance faster, smarter, and more reliable — one class at a time.*
+
+
+## What I Learned
+
+Building SnapClass gave me hands-on experience with:
+
+- **Python:** Modular programming, application logic, exception handling and debugging.
+- **Computer Vision:** Face detection, image processing and face recognition workflows.
+- **Machine Learning:** Integrating AI/ML techniques into real-world applications.
+- **Audio Processing:** Working with voice-based attendance workflows.
+- **Supabase:** Database connectivity, storing and retrieving records.
+- **Streamlit:** Building interactive web applications and managing application state.
+- **Software Architecture:** Modular project structure and separation of concerns.
+- **Git & GitHub:** Version control, commits and repository management.
+- **Deployment:** Deploying applications and managing configuration and secrets.
+
+**Key Takeaway:** Learned how to build, integrate, debug and deploy an end-to-end application while solving a real-world problem.
