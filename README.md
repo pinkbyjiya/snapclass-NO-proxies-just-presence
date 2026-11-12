@@ -1,4 +1,7 @@
 # SnapClass – No Proxies. Just Presence. 🎓
+🚀 **Live Demo:** https://snapclass-noproxy.streamlit.app/
+
+💻 **GitHub:** https://github.com/pinkbyjiya/snapclass-NO-proxies-just-presence
 
 **AI-Powered Smart Attendance Management System**
 
@@ -177,8 +180,6 @@ Our objectives are to:
 
 Built with Python, Streamlit, AI, Machine Learning, and Supabase.
 
-**GitHub:** https://github.com/pinkbyjiya/snapclass-NO-proxies-just-presence
 
----
 
 *Making classroom attendance faster, smarter, and more reliable — one class at a time.*
