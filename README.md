@@ -1,5 +1,5 @@
 # SnapClass – No Proxies. Just Presence. 🎓
-🚀 **Live Demo:** https://snapclass-noproxy.streamlit.app/
+🚀 **Live Demo:** https://snapclass-landing-page-resume-mu.vercel.app
 
 💻 **GitHub:** https://github.com/pinkbyjiya/snapclass-NO-proxies-just-presence
 
